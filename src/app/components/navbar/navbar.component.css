@@ -1,0 +1,5 @@
+.active {
+    color: crimson !important;
+    font-weight: bold;
+    font-style: italic;
+}
